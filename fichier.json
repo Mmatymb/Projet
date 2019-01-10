@@ -1,0 +1,21 @@
+{
+  "etudiant": {
+
+    "prenom": "Fatou",
+    "nom": "tall",
+    "date de naissance": "15/05/1995",
+    "numero de carte": "2018DIC1"
+  },
+
+  "cours": {
+    "libelle": "base de donnees",
+    "lieu": "salle202"
+  },
+
+  "professeur":
+  {
+    "matricule": "528525",
+    "nom" : "Mbacke"
+  }
+
+}
